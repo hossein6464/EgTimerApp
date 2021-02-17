@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Egg Timer App</string>
+    <string name="button">Go!</string>
+    <string name="timer">1:30</string>
+</resources>
